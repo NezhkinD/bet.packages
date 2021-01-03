@@ -1,0 +1,15 @@
+{
+  "name": "nezhkind/bet.packages",
+  "license": "MIT",
+  "require": {},
+  "authors": [
+    {
+      "name": "Nehkin Dmitriy"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "BetPackages\\Microservices\\Validator\\": "microservices/Validator/"
+    }
+  }
+}
