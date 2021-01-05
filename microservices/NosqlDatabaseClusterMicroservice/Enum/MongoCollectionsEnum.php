@@ -4,7 +4,7 @@ namespace BetPackages\Microservices\NosqlDatabaseClusterMicroservice\Enum;
 
 class MongoCollectionsEnum
 {
-    private const TEAM_STANDARDIZER_COLLECTION = "team-standardizer";
+    public const TEAM_STANDARDIZER_COLLECTION = "team-standardizer";
 
 
     private string $collectionName;
