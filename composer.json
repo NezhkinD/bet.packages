@@ -9,7 +9,8 @@
   ],
   "autoload": {
     "psr-4": {
-      "BetPackages\\Microservices\\Validator\\": "microservices/Validator/"
+      "BetPackages\\Microservices\\Validator\\": "microservices/Validator/",
+      "BetPackages\\Microservices\\NosqlDatabaseClusterMicroservice\\Enum\\": "microservices/NosqlDatabaseClusterMicroservice/Enum/"
     }
   }
 }
